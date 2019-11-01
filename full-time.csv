@@ -1,10 +1,10 @@
-Start year,Salary,Location,Company,Degree,Position (optional)
-2018,"$45,000.00","Minneapolis, MN",OATI,Bachelor’s,
-2018,"$62,000.00","Minnetonka, MN",Digital River,Bachelor’s,
-2018,"$65,000.00","Minneapolis, MN",Code42,Bachelor’s,
-2020,"$65,000.00","New Brighton, MN",IVANTI,Bachelor’s,Software engineer
-2020,"$71,000.00","Saint Paul, MN",Securian Financial,Bachelor’s,Full-stack dev
-2020,"$71,000.00","Minneapolis, MN",COUNTRY Financial,Bachelor’s,
-2020,"$75,000.00","Minneapolis, MN",ICF Next,Bachelor’s,Java dev
-2020,"$80,000.00","Bloomington, MN",Pearson VUE,Bachelor’s,DevOps
-2020,"$80,000.00","Bloomington, MN",General Dynamics,Bachelor’s,
+Start year,Salary,Company,Location,Degree,Position (optional)
+2018,"$45,000",OATI,"Minneapolis, MN",Bachelor’s,
+2018,"$62,000",Digital River,"Minnetonka, MN",Bachelor’s,
+2018,"$65,000",Code42,"Minneapolis, MN",Bachelor’s,
+2020,"$65,000",IVANTI,"New Brighton, MN",Bachelor’s,Software engineer
+2020,"$71,000",Securian Financial,"Saint Paul, MN",Bachelor’s,Full-stack dev
+2020,"$71,000",COUNTRY Financial,"Minneapolis, MN",Bachelor’s,
+2020,"$75,000",ICF Next,"Minneapolis, MN",Bachelor’s,Java dev
+2020,"$80,000",Pearson VUE,"Bloomington, MN",Bachelor’s,DevOps
+2020,"$80,000",General Dynamics,"Bloomington, MN",Bachelor’s,
